@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/R1-rishabh/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/R1-rishabh/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/R1-rishabh/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/R1-rishabh/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
